@@ -22,17 +22,17 @@ rol_en_proyecto:
 | P-REQ-02 |        |                |           |          |                       |                          |         |           |                   |
 | P-REQ-03 |        |                |           |          |                       |                          |         |           |                   |
 
-**Decisiones permitidas:**
+- **Decisiones permitidas:**
 
-**Propuesta:** `Cambiar` · `Agregar` · `Quitar`
+- **Propuesta:** `Cambiar` · `Agregar` · `Quitar`
 
-**Decisión:** ✅ **ACEPTAR** · 🔧 **ACEPTAR CON AJUSTE** · ❌ **RECHAZAR** · 💬 **DISCUTIR**
+- **Decisión:** ✅ **ACEPTAR** · 🔧 **ACEPTAR CON AJUSTE** · ❌ **RECHAZAR** · 💬 **DISCUTIR**
 
-**Impacto:** `Requerimiento` · `Contrato API` · `DDL/BD` · `RBAC` · `Mockup` · `Backend`
+- **Impacto:** `Requerimiento` · `Contrato API` · `DDL/BD` · `RBAC` · `Mockup` · `Backend`
 
-**Prioridad:** `Alta` · `Media` · `Baja`
+- **Prioridad:** `Alta` · `Media` · `Baja`
 
-**Bloquea backend:** `Sí` · `No`
+- **Bloquea backend:** `Sí` · `No`
 
 ## B. Base de datos
 
@@ -44,21 +44,21 @@ rol_en_proyecto:
 
 **Decisiones permitidas:**  
 
-**Propuesta:** `Entidad` · `Campo` · `Tipo` · `Relación` 
+- **Propuesta:** `Entidad` · `Campo` · `Tipo` · `Relación` 
 
-**Entidad/tabla:**  `Schema.tabla` · `Campo` 
+- **Entidad/tabla:**  `Schema.tabla` · `Campo` 
 
-**Decisión:** ✅ **ACEPTAR** · 🔧 **ACEPTAR CON AJUSTE** · ❌ **RECHAZAR** · 💬 **DISCUTIR**
+- **Decisión:** ✅ **ACEPTAR** · 🔧 **ACEPTAR CON AJUSTE** · ❌ **RECHAZAR** · 💬 **DISCUTIR**
 
-**Justificación:** `Contrato/mockup` · `normalización` · `integridad`
+- **Justificación:** `Contrato/mockup` · `normalización` · `integridad`
 
-**Changeset:** `refinamiento-<dominio>-NNN`
+- **Changeset:** `refinamiento-<dominio>-NNN`
 
-**Impacto:** `Requerimiento` · `Contrato API` · `DDL/BD` · `RBAC` · `Mockup` · `Backend`
+- **Impacto:** `Requerimiento` · `Contrato API` · `DDL/BD` · `RBAC` · `Mockup` · `Backend`
 
-**Prioridad:** `Alta` · `Media` · `Baja`
+- **Prioridad:** `Alta` · `Media` · `Baja`
 
-**Bloquea backend:** `Sí` · `No`
+- **Bloquea backend:** `Sí` · `No`
 
 ---
 
@@ -85,10 +85,11 @@ rol_en_proyecto:
 
 > Problemas que el estudiante no propuso pero que tú, como conocedor del sistema, detectaste.
 
-| ID   | Capa            | Hallazgo | Solución propuesta | Impacto | Prioridad | ¿Bloquea backend? |
-| ---- | --------------- | -------- | ------------------ | ------- | --------- | :---------------: |
-| H-01 | REQ / BD / MOCK |          |                    |         |           |                   |
-| H-02 | REQ / BD / MOCK |          |                    |         |           |                   |
+| ID | Título | Capa | Descripción | Por qué importa (técnico) | Propuesta de solución | Impacto | Prioridad | ¿Bloquea backend? |
+|---|---|---|---|---|---|---|:---:|:---:|
+| H-01 | | REQ / BD / MOCK | | | | | | |
+| H-02 | | REQ / BD / MOCK | | | | | | |
+| H-03 | | REQ / BD / MOCK | | | | | | |
 
 ---
 
@@ -96,10 +97,10 @@ rol_en_proyecto:
 
 > Solo incluir los elementos marcados anteriormente como **"Sí"**.
 
-| ID | Qué falta cerrar | Capa | Decisión |
-| -- | ---------------- | ---- | :------: |
-|    |                  |      |          |
-|    |                  |      |          |
+| ID (ref) | Qué falta cerrar | Capa | Decisión |
+|---|---|---|:---:|
+| P-REQ-XX / P-BD-XX / P-MOCK-XX / H-XX | | REQ / BD / MOCK | |
+| P-REQ-XX / P-BD-XX / P-MOCK-XX / H-XX | | REQ / BD / MOCK | |
 
 ---
 
