@@ -18,7 +18,7 @@ rol_en_proyecto:
 
 | ID | Título | Fuente / Autor | Propuesta | Decisión | Justificación técnica | Ajuste propuesto (si 🔧) | Impacto | Prioridad | ¿Bloquea backend? |
 |---|---|---|---|:---:|---|---|---|:---:|:---:|
-| **P-REQ-01** | Análisis y propuestas de mejora – Sistema de Gestión de Horarios SENA | Documento de análisis y propuestas de mejora | **Cambiar** | 🔧 | Las mejoras de consulta, filtros, responsive, conflictos, ambientes y reportes son pertinentes, pero algunas propuestas mezclan UX con requerimientos técnicos y roles que requieren mayor definición. | Precisar roles, notificaciones, filtros y reportes; diferenciar mejoras UX de cambios funcionales y validar el prototipo indicado. | **Requerimiento** | **Alta** | **Sí** |          |                   |
+| **P-REQ-01** | Análisis y propuestas de mejora – Sistema de Gestión de Horarios SENA | https://drive.google.com/drive/folders/1xZ0pBz9jLOfqZ8nPKW88863T66BTRyCr | **Cambiar** | 🔧 | Las mejoras de consulta, filtros, responsive, conflictos, ambientes y reportes son pertinentes, pero algunas propuestas mezclan UX con requerimientos técnicos y roles que requieren mayor definición. | Precisar roles, notificaciones, filtros y reportes; diferenciar mejoras UX de cambios funcionales y validar el prototipo indicado. | **Requerimiento** | **Alta** | **Sí** |          |                   |
 
 - **Decisiones permitidas:**
 
