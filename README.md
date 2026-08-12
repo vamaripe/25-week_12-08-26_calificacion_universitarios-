@@ -18,7 +18,7 @@ rol_en_proyecto:
 
 | ID       | Título | Fuente / Autor | Propuesta | Decisión | Justificación técnica | Ajuste propuesto (si 🔧) | Impacto | Prioridad | ¿Bloquea backend? |
 | -------- | ------ | -------------- | --------- | :------: | --------------------- | ------------------------ | ------- | :-------: | :---------------: |
-| P-REQ-01 |        |                |           |          |                       |                          |         |           |                   |
+| P-REQ-01 |        | https://drive.google.com/drive/folders/1o6ASBaXEvbYkBuThEKdVAkA1qRDanuq5               |           |          |                       |                          |         |           |                   |
 | P-REQ-02 |        |                |           |          |                       |                          |         |           |                   |
 | P-REQ-03 |        |                |           |          |                       |                          |         |           |                   |
 
