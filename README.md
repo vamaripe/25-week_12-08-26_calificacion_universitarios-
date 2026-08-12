@@ -3,11 +3,11 @@
 
 tipo: refinamiento-requerimientos
 proyecto: Sistema de Gestión de Horarios SENA (code-sena)
-revisor:
-ficha:
-fecha:
-estudiante:
-rol_en_proyecto:
+revisor: Mariana Valenzuela Penagos
+ficha: 3145555
+fecha:12-08-26
+estudiante: Mariana Valenzuela Penagos
+rol_en_proyecto: Líder técnica 
 ----------------
 
 # Evaluación del estudiante
