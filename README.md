@@ -66,7 +66,7 @@ rol_en_proyecto:
 
 | ID | Propuesta (resumen) | Pantalla / Ruta | Propuesta | Decisión | Ajuste propuesto (si 🔧) | Depende de | Impacto | Prioridad | ¿Bloquea backend? |
 |---|---|---|---|:---:|---|---|---|:---:|:---:|
-| **P-MOCK-01** | Mejorar consulta de horarios, filtros, detalle de clases, responsive y visualización de conflictos | Coordinador · Crear horario · `#/horarios/nuevo` | **Cambiar** | 🔧 **ACEPTAR CON AJUSTE** | Unificar criterios de navegación y visualización; validar qué elementos requieren datos o acciones backend antes de implementarlos. | **P-REQ-01** | **Mockup** | **Alta** | **Sí** |
+| **P-MOCK-01** | Mejorar consulta de horarios, filtros, detalle de clases, responsive y visualización de conflictos | Coordinador · Crear horario · `#/horarios/nuevo` | **Cambiar** | 🔧 **ACEPTAR CON AJUSTE** | **Cambiar la pantalla para mostrar filtros, detalle de la sesión y conflictos de forma visible, evitando navegación innecesaria y adaptando la vista a móvil.** | **P-REQ-01** | **Mockup** | **Alta** | **Sí** |
 
 **Decisiones permitidas:**  
 - **Pantalla / ruta:** `Coordinador` · `Crear horario` · `#/horarios/nuevo>`
