@@ -16,11 +16,9 @@ rol_en_proyecto:
 
 ### Detalle — Requerimientos
 
-| ID       | Título | Fuente / Autor | Propuesta | Decisión | Justificación técnica | Ajuste propuesto (si 🔧) | Impacto | Prioridad | ¿Bloquea backend? |
-| -------- | ------ | -------------- | --------- | :------: | --------------------- | ------------------------ | ------- | :-------: | :---------------: |
-| P-REQ-01 |        | https://drive.google.com/drive/folders/1o6ASBaXEvbYkBuThEKdVAkA1qRDanuq5               |           |          |                       |                          |         |           |                   |
-| P-REQ-02 |        |                |           |          |                       |                          |         |           |                   |
-| P-REQ-03 |        |                |           |          |                       |                          |         |           |                   |
+| ID | Título | Fuente / Autor | Propuesta | Decisión | Justificación técnica | Ajuste propuesto (si 🔧) | Impacto | Prioridad | ¿Bloquea backend? |
+|---|---|---|---|:---:|---|---|---|:---:|:---:|
+| **P-REQ-01** | Análisis y propuestas de mejora – Sistema de Gestión de Horarios SENA | Documento de análisis y propuestas de mejora | **Cambiar** | 🔧 | Las mejoras de consulta, filtros, responsive, conflictos, ambientes y reportes son pertinentes, pero algunas propuestas mezclan UX con requerimientos técnicos y roles que requieren mayor definición. | Precisar roles, notificaciones, filtros y reportes; diferenciar mejoras UX de cambios funcionales y validar el prototipo indicado. | **Requerimiento** | **Alta** | **Sí** |          |                   |
 
 - **Decisiones permitidas:**
 
@@ -106,6 +104,8 @@ rol_en_proyecto:
 
 # F. Cierre y calificación
 
+* **Total de propuestas no relacionadas a gestión de horarios:** _1__
+* * **Total de propuestas no relacionadas a gestión de horarios:** ___
 * **Total de propuestas revisadas:** ___
 * **✅ ACEPTAR:** ___
 * **🔧 ACEPTAR CON AJUSTE:** ___
