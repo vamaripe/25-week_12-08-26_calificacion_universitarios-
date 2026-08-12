@@ -106,8 +106,8 @@ rol_en_proyecto:
 # F. Cierre y calificación
 
 * **Total de propuestas no relacionadas a gestión de horarios:** _1__
-* * **Total de propuestas no relacionadas a gestión de horarios:** ___
-* **Total de propuestas revisadas:** ___
+* * **Total de propuestas no relacionadas a gestión de horarios:** _1__
+* **Total de propuestas revisadas:** __2_
 * **✅ ACEPTAR:** ___
 * **🔧 ACEPTAR CON AJUSTE:** ___
 * **❌ RECHAZAR:** ___
