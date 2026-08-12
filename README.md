@@ -36,25 +36,48 @@ rol_en_proyecto:
 
 ## B. Base de datos
 
-| ID      | Propuesta | Entidad/Tabla | Decisión | Justificación técnica | Impacto | Prioridad | ¿Bloquea backend? |
-| ------- | --------- | ------------- | :------: | --------------------- | ------- | --------- | :---------------: |
-| P-BD-01 |           |               |          |                       |         |           |                   |
-| P-BD-02 |           |               |          |                       |         |           |                   |
+| ID | Título | Fuente / Autor | Propuesta | Entidad/Tabla afectada | Decisión | Justificación técnica | Ajuste propuesto (si 🔧) | ¿Requiere changeset nuevo? | ID del changeset | Impacto | Prioridad | ¿Bloquea backend? |
+|---|---|---|---|---|:---:|---|---|:---:|---|---|:---:|:---:|
+| P-BD-01 | | | | | | | | | | | | |
+| P-BD-02 | | | | | | | | | | | | |
+| P-BD-03 | | | | | | | | | | | | |
 
-**Si 🔧:** indicar el ajuste técnico propuesto.
-**Si requiere cambio de BD:** indicar que requiere **changeset nuevo**.
+**Decisiones permitidas:**  
+
+**Propuesta:** `Entidad` · `Campo` · `Tipo` · `Relación` 
+
+**Entidad/tabla:**  `Schema.tabla` · `Campo` 
+
+**Decisión:** ✅ **ACEPTAR** · 🔧 **ACEPTAR CON AJUSTE** · ❌ **RECHAZAR** · 💬 **DISCUTIR**
+
+**Justificación:** `Contrato/mockup` · `normalización` · `integridad`
+
+**Changeset:** `refinamiento-<dominio>-NNN`
+
+**Impacto:** `Requerimiento` · `Contrato API` · `DDL/BD` · `RBAC` · `Mockup` · `Backend`
+
+**Prioridad:** `Alta` · `Media` · `Baja`
+
+**Bloquea backend:** `Sí` · `No`
 
 ---
 
 ## C. Mockup / UX
 
-| ID        | Propuesta | Pantalla/Ruta | Decisión | Justificación técnica | Impacto | Prioridad | ¿Bloquea backend? |
-| --------- | --------- | ------------- | :------: | --------------------- | ------- | --------- | :---------------: |
-| P-MOCK-01 |           |               |          |                       |         |           |                   |
-| P-MOCK-02 |           |               |          |                       |         |           |                   |
+### Resumen de decisiones — Mockup
+| ID | Propuesta (resumen) | Pantalla/Ruta | Decisión | ¿Bloquea backend? |
+|---|---|---|:--:|:--:|
+| P-MOCK-01 |  |  |  |  |
 
-**Si 🔧:** indicar el ajuste técnico propuesto.
-**Si depende de otro cambio:** indicar `P-REQ-XX` o `P-BD-XX`.
+**Decisiones permitidas:**  
+- **Pantalla / ruta:** `Coordinador` · `Crear horario` · `#/horarios/nuevo>`
+- **Propuesta:** `Cambiar` · `Agregar` · `Quitar`
+- **Decisión:** ✅ **ACEPTAR** · 🔧 **ACEPTAR CON AJUSTE** · ❌ **RECHAZAR** · 💬 **DISCUTIR**
+- **Ajuste propuesto (si 🔧):** `Cambiar` ·
+- **Depende de:** `P-REQ-xxa` · `P-BD-xx` 
+- **Impacto:** `Requerimiento` · `Contrato API` · `DDL/BD` · `RBAC` · `Mockup` · `Backend`
+- **Prioridad:** `Alta` · `Media` · `Baja`
+- **Bloquea backend:** `Sí` · `No`
 
 ---
 
