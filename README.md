@@ -1,13 +1,13 @@
 # 25-week_12-08-26_calificacion_universitarios-
 ---
 
-tipo: refinamiento-requerimientos
-proyecto: Sistema de Gestión de Horarios SENA (code-sena)
-revisor: Mariana Valenzuela Penagos
-ficha: 3145555
-fecha:12-08-26
-estudiante: Mariana Valenzuela Penagos
-rol_en_proyecto: Líder técnica 
+- tipo: refinamiento-requerimientos
+- proyecto: Sistema de Gestión de Horarios SENA (code-sena)
+- revisor: Mariana Valenzuela Penagos
+- ficha: 3145555
+- fecha:12-08-26
+- estudiante: Mariana Valenzuela Penagos
+- rol_en_proyecto: Líder técnica 
 ----------------
 
 # Evaluación del estudiante
